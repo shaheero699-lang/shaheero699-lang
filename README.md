@@ -12,7 +12,7 @@ The dashboard enables users to monitor key performance indicators, identify high
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard-preview.png.png)
+![Sales Performance Dashboard](dashboard-preview.png)
 
 ---
 
