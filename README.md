@@ -1,41 +1,143 @@
-# Hi, I'm Shaheer Mohamed 👋
+# Sales Performance Dashboard
 
-### RevOps & Data Analyst | Power BI · Python · SQL
+Power BI • Business Intelligence • Revenue Analytics • Executive Reporting
 
-I'm a revenue-focused analyst with 4+ years across Sales, 
-Customer Success, and Business Development. I build dashboards 
-and data pipelines that help GTM teams make faster decisions.
+## Overview
 
----
+This project delivers an interactive Sales Performance Dashboard designed to provide business leaders with visibility into revenue performance, customer activity, product sales, and regional trends.
 
-### 🛠️ Tech Stack
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+The dashboard enables users to monitor key performance indicators, identify high-performing regions and product categories, and track revenue growth over time.
 
 ---
 
-### 📂 Featured Projects
+## Dashboard Preview
 
-| Project | Tools | Link |
-|---------|-------|------|
-| 📊 Sales Performance Dashboard | Power BI, DAX | [View →](link) |
-| 📣 Marketing Campaign Analysis | Python, Power BI | [View →](link) |
-| 🛒 E-commerce RFM Dashboard | Python, Power BI | [View →](link) |
+![Sales Performance Dashboard](dashboard-preview.png.png)
 
 ---
 
-### 📜 Certifications
-- ✅ HubSpot RevOps Certification
-- ✅ HubSpot Inbound Marketing
-- ✅ Google Analytics (GA4)
-- 🔄 Microsoft Power BI PL-300 (In Progress)
+## Business Objectives
+
+- Monitor overall sales performance
+- Track revenue trends across time
+- Analyze regional sales distribution
+- Evaluate product category performance
+- Support executive decision-making with KPI reporting
 
 ---
 
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+## Key Metrics
+
+| Metric | Value |
+|----------|----------|
+| Total Revenue | 705.42K |
+| Total Orders | 6K |
+| Total Customers | 787 |
+| Total Products | 1K |
+| Average Order Value | 119.38 |
+
+---
+
+## Dashboard Features
+
+### Executive KPI Monitoring
+
+Provides a high-level summary of:
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Total Products
+- Average Order Value
+
+### Revenue Trend Analysis
+
+Tracks monthly revenue performance and highlights growth patterns over time.
+
+### Regional Performance Analysis
+
+Compares revenue contribution across:
+
+- West
+- East
+- Central
+- South
+
+### Product Category Analysis
+
+Evaluates sales performance for:
+
+- Technology
+- Furniture
+- Office Supplies
+
+### Product-Level Performance
+
+Provides detailed visibility into:
+
+- Product revenue
+- Product category
+- Regional contribution
+
+---
+
+## Business Insights
+
+- Technology and Furniture categories contribute the highest revenue.
+- West region generates the strongest sales performance.
+- Revenue shows a consistent upward trend throughout the year.
+- Product-level reporting helps identify top-performing items.
+
+---
+
+## Technical Stack
+
+### Power BI
+
+- Interactive Dashboard Development
+- Data Modeling
+- KPI Design
+- Business Reporting
+
+### DAX
+
+- Revenue Measures
+- Customer Metrics
+- Average Order Value Calculations
+- Executive KPI Tracking
+
+### Data Analytics
+
+- Revenue Analysis
+- Regional Analysis
+- Product Performance Evaluation
+- Trend Analysis
+
+---
+
+## Repository Contents
+
+```text
+01-Sales-Performance-Dashboard/
+├── README.md
+├── dashboard-preview.png.png
+└── sales-dashboard.pbix
+```
+
+---
+
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Visualization
+- Business Intelligence
+- KPI Design
+- DAX Measures
+- Executive Reporting
+- Revenue Analytics
+
+---
+
+## Outcome
+
+This dashboard transforms raw sales data into actionable business intelligence, enabling leadership teams to monitor performance, identify growth opportunities, and make data-driven decisions.
