@@ -21,7 +21,8 @@
 
 Enterprise-grade 4-page Power BI dashboard for a B2B SaaS company covering Executive KPIs, Revenue Operations, Customer Health & Forecasting
 
-![Veltrix](https://raw.githubusercontent.com/shaheero699-lang/shaheero699-lang/main/veltrix_preview.png)
+![Executive Command Center](https://raw.githubusercontent.com/shaheero699-lang/shaheer-analytics/main/01-veltrix-revops-intelligence/assets/screenshots/page_1_executive_summary.png)
+
 
 **Tech:** SQL · Python · Power BI · 185K rows · 20+ DAX measures
 
