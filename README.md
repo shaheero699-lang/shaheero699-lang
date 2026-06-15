@@ -19,8 +19,7 @@
 
 > Enterprise-grade 4-page Power BI dashboard for a B2B SaaS company covering Executive KPIs, Revenue Operations, Customer Health & Forecasting
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheero699-lang/shaheer-analytics)| Layer | Tools Used |
-|---|---|
+![Veltrix](https://raw.githubusercontent.com/shaheero699-lang/shaheero699-lang/main/veltrix_preview.png)|---|---|
 | Data Modeling | SQL — Star Schema, 185K rows |
 | Analysis | Python — Churn prediction, health scoring |
 | Dashboard | Power BI — 4 pages, 20+ DAX measures |
